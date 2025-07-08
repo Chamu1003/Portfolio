@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chamudishehara.vercel.app/sitemap.xml
