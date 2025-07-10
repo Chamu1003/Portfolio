@@ -22,17 +22,15 @@ const About = () => {
     {
       name: "Full Stack Developer Trainee Program",
       issuer: "University of Moratuwa",
-      period: "2022 – 2024",
+      period: "2025",
       icon: <FaCertificate />
     },
     {
       name: "Python Programming",
-      issuer: "Certificate ID: c6mGYSkX90",
       icon: <FaCode />
     },
     {
       name: "Web Development",
-      issuer: "Certificate ID: Ybqb94FJQ7",
       icon: <FaCode />
     }
   ];
