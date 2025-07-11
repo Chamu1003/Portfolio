@@ -7,7 +7,7 @@ import Profile from '../assets/Profile.png'; // adjust path as needed
 
 const Home = () => {
   const socialLinks = [
-    { icon: <FaGithub size={24} />, href: 'https://github.com/Chamu1003', label: 'GitHub' },
+    { icon: <FaGithub size={24} />, href: 'https://github.com/ChamudiShehara', label: 'GitHub' },
     { icon: <FaLinkedin size={24} />, href: 'https://www.linkedin.com/in/chamudishehara/', label: 'LinkedIn' },
     { icon: <FaMedium size={24} />, href: 'https://medium.com/@chamushehara', label: 'Medium' },
   ];

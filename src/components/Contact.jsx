@@ -9,7 +9,7 @@ const Contact = () => {
     location: "Nawasigahawatta, Nugegoda, Sri Lanka",
     social: [
       { name: "LinkedIn", icon: <FaLinkedin size={20} />, url: "https://www.linkedin.com/in/chamudishehara/" },
-      { name: "GitHub", icon: <FaGithub size={20} />, url: "https://github.com/Chamu1003" },
+      { name: "GitHub", icon: <FaGithub size={20} />, url: "https://github.com/ChamudiShehara" },
       { name: "Medium", icon: <FaMedium size={20} />, url: "https://medium.com/@chamushehara" }
     ]
   };
